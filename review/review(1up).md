@@ -23,13 +23,14 @@ ENDWHILE
 ## Markdown 支持的 Latex 数学公式文本。
 http://mohu.org/info/symbols/symbols.htm
 
-![](..\images\mathnotation1.png)
+![](..//images//mathnotation1.png)
 
-![结果](..\images\mathnotation2.png)
 
-![](..\images\mathnotation3.png)
+![结果](..//images//mathnotation2.png)
 
-![结果](..\images\mathnotation4.png)
+![](..//images//mathnotation3.png)
+
+![结果](..//images//mathnotation4.png)
 
 ## c语言位操作符号
 非“~”，与“&”，或“|”，异或“^”
@@ -37,10 +38,10 @@ http://mohu.org/info/symbols/symbols.htm
 char c = 0xa1 & 0x70（用十六进制表示）；
 
  c = ( ？                )  
-![答案为20（十六进制）](..\images\answer1.jpg)
+![答案为20（十六进制）](..//images//answer1.jpg)
 
 ### 请证明：二进制的负数（two‘s complement of X）等于 X 的 ones’ complement  ＋ 1（即，X每位求反加1）
-![](..\images\proof1.jpg)
+![](..//images//proof1.jpg)
 
 ## 软件工程的概念
 
